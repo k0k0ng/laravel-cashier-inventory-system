@@ -7,11 +7,16 @@ Route::get('/', function () {
 });
 
 
-// Auth
+// Admin
+Route::get('/admin-dashboard', function () {
+    return view('admin.admin-dashboard');
+});
+
 Route::get('/create-account', function () {
     return view('admin.create-account');
 });
 
+// Auth
 Route::get('/login', function () {
     return view('auth.login');
 });

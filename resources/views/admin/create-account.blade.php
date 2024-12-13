@@ -1,6 +1,6 @@
 <x-layout>
-  <div class="h-full flex flex-col justify-center bg-slate-200 md:bg-transparent text-gray-800 md:p-4">
-    <div class="max-w-md w-full mx-auto bg-slate-200 border md:border-gray-300 md:rounded-2xl p-8">
+  <div class="h-full flex flex-col justify-center bg-white md:bg-transparent text-gray-800 md:p-4">
+    <div class="max-w-md w-full mx-auto bg-white border md:border-gray-300 md:rounded-2xl p-8">
       <div class="text-center mb-16 md:mb-12">
         <h1 class="font-bold text-2xl ">Create Accouunt</h1>
       </div>
